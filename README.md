@@ -317,6 +317,6 @@ OCR/
   
   **"금융의 디지털 전환을 AI로 가속화합니다"**
   
-  © 2024 Financial Document OCR System. All rights reserved.
+  © 2025 Financial Document OCR System. All rights reserved.
   
 </div>
